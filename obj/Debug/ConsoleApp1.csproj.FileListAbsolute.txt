@@ -1,0 +1,21 @@
+c:\users\jshi3\onedrive\文档\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\jshi3\onedrive\文档\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\jshi3\onedrive\文档\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\jshi3\onedrive\文档\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\jshi3\onedrive\文档\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\jshi3\onedrive\文档\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\jshi3\OneDrive\文档\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\App.config
+C:\Users\jshi3\OneDrive\文档\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConnectionString.config
+C:\Users\jshi3\visualstudio2017\Projects\MyStock\ConsoleApp1\bin\Debug\App.config
+C:\Users\jshi3\visualstudio2017\Projects\MyStock\ConsoleApp1\bin\Debug\ConnectionString.config
+C:\Users\jshi3\visualstudio2017\Projects\MyStock\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\jshi3\visualstudio2017\Projects\MyStock\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\jshi3\visualstudio2017\Projects\MyStock\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\jshi3\visualstudio2017\Projects\MyStock\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\jshi3\visualstudio2017\Projects\MyStock\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\jshi3\visualstudio2017\Projects\MyStock\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\jshi3\visualstudio2017\Projects\MyStock\ConsoleApp1\bin\Debug\ConsoleApp1.exe.manifest
+C:\Users\jshi3\visualstudio2017\Projects\MyStock\ConsoleApp1\bin\Debug\ConsoleApp1.application
+C:\Users\jshi3\visualstudio2017\Projects\MyStock\ConsoleApp1\obj\Debug\ConsoleApp1.TrustInfo.xml
+C:\Users\jshi3\visualstudio2017\Projects\MyStock\ConsoleApp1\obj\Debug\ConsoleApp1.exe.manifest
+C:\Users\jshi3\visualstudio2017\Projects\MyStock\ConsoleApp1\obj\Debug\ConsoleApp1.application
